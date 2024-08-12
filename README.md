@@ -1,4 +1,4 @@
-#![banner menor linkedin](https://github.com/user-attachments/assets/9e7609c6-207b-4fb1-80e7-366696be7f58)
+![banner menor linkedin](https://github.com/user-attachments/assets/9e7609c6-207b-4fb1-80e7-366696be7f58)
 # 🌕 Olá, sou o Lucas Barbosa!
 
 Sou um desenvolvedor fullstack querendo ser junior! Tenho experiência com JAVA e o framework Spring. Já desenvolvi também projetos Android com Kotlin. Atualmente estou aprendendo React para melhorar minhas aplicações web.
